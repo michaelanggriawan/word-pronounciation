@@ -1,0 +1,10 @@
+.typing-container .typing {
+    height: 50px;
+    width: 500px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+.typing-container .typing:focus {
+    outline: none;
+}
